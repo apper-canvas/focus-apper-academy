@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "lessonId": "1",
+    "code": "Create a simple to-do list app with the ability to add, remove, and mark tasks as complete. Use a clean, modern design with a blue color scheme.",
+    "language": "text",
+    "description": "Your first Apper prompt - copy this and paste it into Apper to create your first app!"
+  },
+  {
+    "id": "2",
+    "lessonId": "2",
+    "code": "Build a recipe finder app where users can search for recipes by ingredients, save favorites, and view cooking instructions.",
+    "language": "text", 
+    "description": "Recipe App Prompt"
+  },
+  {
+    "id": "3",
+    "lessonId": "2",
+    "code": "Create a personal expense tracker with categories, monthly budgets, and spending analytics charts.",
+    "language": "text",
+    "description": "Expense Tracker Prompt"
+  },
+  {
+    "id": "4",
+    "lessonId": "3",
+    "code": "Add a settings page where users can update their profile information and app preferences.",
+    "language": "text",
+    "description": "Adding a new page example"
+  },
+  {
+    "id": "5",
+    "lessonId": "4",
+    "code": "Use a blue and white color scheme with rounded buttons and card-based layout for a modern, professional look.",
+    "language": "text",
+    "description": "Design customization example"
+  },
+  {
+    "id": "6",
+    "lessonId": "5",
+    "code": "Add user registration and login with email and password, including a profile page for account management.",
+    "language": "text",
+    "description": "Basic authentication setup"
+  },
+  {
+    "id": "7",
+    "lessonId": "7",
+    "code": "Add a monthly subscription plan for $9.99 that unlocks premium features like advanced analytics and unlimited projects.",
+    "language": "text",
+    "description": "Simple subscription setup"
+  },
+  {
+    "id": "8",
+    "lessonId": "8",
+    "code": "Publish my app with SSL security and connect it to my custom domain www.myawesomeapp.com",
+    "language": "text",
+    "description": "App publishing example"
+  },
+  {
+    "id": "9",
+    "lessonId": "9",
+    "code": "Add drag-and-drop functionality to reorder tasks, with smooth animations and visual feedback.",
+    "language": "text",
+    "description": "Advanced interaction example"
+  }
+]

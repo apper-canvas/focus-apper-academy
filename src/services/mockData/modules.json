@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Getting Started",
+    "description": "Learn the basics of Apper and create your first app",
+    "lessons": ["1", "2"],
+    "order": 1
+  },
+  {
+    "id": "2", 
+    "title": "Customization",
+    "description": "Customize your app's design, pages, and features",
+    "lessons": ["3", "4"],
+    "order": 2
+  },
+  {
+    "id": "3",
+    "title": "User Features", 
+    "description": "Add login, signup, and user management",
+    "lessons": ["5", "6"],
+    "order": 3
+  },
+  {
+    "id": "4",
+    "title": "Monetization",
+    "description": "Set up payments and subscription features", 
+    "lessons": ["7"],
+    "order": 4
+  },
+  {
+    "id": "5",
+    "title": "Publishing",
+    "description": "Deploy and share your app with the world",
+    "lessons": ["8"],
+    "order": 5
+  },
+  {
+    "id": "6",
+    "title": "Pro Tips",
+    "description": "Advanced techniques to maximize Apper's potential",
+    "lessons": ["9"],
+    "order": 6
+  }
+]
