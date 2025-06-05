@@ -1,10 +1,10 @@
 import { useState } from 'react'
 import { toast } from 'react-toastify'
+import { motion } from 'framer-motion'
 import IconWrapper from '@/components/atoms/IconWrapper'
 import Heading from '@/components/atoms/Heading'
 import Text from '@/components/atoms/Text'
 import Button from '@/components/atoms/Button'
-
 const CodeSnippet = ({ code, language = 'text', description }) => {
   const [copied, setCopied] = useState(false)
 
