@@ -72,10 +72,9 @@
 .sidebar-scroll::-webkit-scrollbar-thumb:hover {
   background: #cbd5e1;
 }
-
 /* Lesson content styles */
 .lesson-content {
-  @apply prose prose-gray max-w-none;
+  @apply text-surface-700 leading-relaxed max-w-none;
 }
 
 .lesson-content h1 {
